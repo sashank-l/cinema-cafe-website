@@ -42,7 +42,7 @@ export default function TestimonialCard({
 
       {/* Quote */}
       <p className="text-vintage-ink font-baloo font-bold text-lg leading-snug italic my-2">
-        "{review}"
+        &quot;{review}&quot;
       </p>
 
       {/* Author Strip */}

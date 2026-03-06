@@ -108,7 +108,7 @@ export default function AboutSection() {
             </p>
             
             <p className="text-vintage-ink/80 font-baloo font-medium text-lg leading-relaxed mb-8">
-              Whether you're catching up with friends, planning a date, or hosting a party, our warm and cinematic ambience sets the perfect mood. Our menu spans artisan coffees, Chinese cuisine, fast food classics, and continental delicacies.
+              Whether you&apos;re catching up with friends, planning a date, or hosting a party, our warm and cinematic ambience sets the perfect mood. Our menu spans artisan coffees, Chinese cuisine, fast food classics, and continental delicacies.
             </p>
 
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
